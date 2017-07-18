@@ -1,0 +1,37 @@
+a 属性：download 最好和herf一致
+
+
+http://www.ogilvy.com.cn/
+
+https://reacttraining.com/react-router/web/api/Route/Route-render-methods   4.0
+
+http://blog.csdn.net/haoshidai/article/details/52244620
+
+http://react-bootstrap.cn/components.html#buttons
+
+www.expressjs.com
+
+
+数据库的增删改查：
+
+insert into 数据表（字段1，字段2,） values（值1，值2）;
+
+update 数据表 set 字段一=值1， where id=接受到的id
+
+delete from 数据表 where id=接收到的id
+
+select xxx from 数据表 where 
+
+
+
+github
+
+
+https://github.com/win1010437630/win.git
+
+
+服务器
+
+
+
+
